@@ -1,0 +1,6 @@
+sph=(60*60)
+spd=(sph*24)
+print("The amount of seconds in an hour is",sph)
+print("The amount of seconds in a day is",spd)
+print("The total of these two divided by eachother is",spd/sph)
+print("The total of these two divided by eachother is",spd//sph)
